@@ -724,4 +724,5 @@ li {
 }
 .portfolio-link:hover .porfolio-overlay {
   transform: translateY(0);
+  transition: 250ms var(--timing-funktion);
 }
